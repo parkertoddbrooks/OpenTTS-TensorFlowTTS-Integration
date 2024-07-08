@@ -1,0 +1,26 @@
+# Core dependencies
+tensorflow>=2.4.0  # CPU version. For GPU support, use tensorflow-gpu>=2.4.0
+numpy>=1.19.2
+
+# OpenTTS dependencies
+# Note: Future dependency. OpenTTS is being mocked and not directly used.
+# opentts==x.x.x
+
+# TensorFlowTTS
+# We'll handle TensorFlowTTS installation separately due to potential compatibility issues
+# TensorFlowTTS==1.8
+
+# Audio processing
+librosa>=0.8.0
+soundfile>=0.10.3
+pydub>=0.25.1
+
+# Utilities
+tqdm>=4.50.0
+
+# Development dependencies
+pytest>=6.2.5
+
+# Note for GPU users:
+# If you have an NVIDIA GPU and want to use GPU acceleration, replace 'tensorflow' with 'tensorflow-gpu'
+# in the core dependencies section above.
