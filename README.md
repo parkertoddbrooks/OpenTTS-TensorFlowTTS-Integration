@@ -1,6 +1,6 @@
 # OpenTTS TensorFlowTTS Integration
 
-This library integrates OpenTTS (an open-source text-to-speech server) with TensorFlowTTS (Google's deep learning toolkit for text-to-speech), enabling advanced, customizable speech synthesis. By wrapping TensorFlowTTS and exposing it through OpenTTS, developers can easily leverage both technologies in their projects without managing the integration themselves.
+This library integrates OpenTTS (an open-source text-to-speech server) with TensorFlowTTS (Google's deep learning toolkit for text-to-speech), enabling advanced, customizable speech synthesis.
 
 The main goals of this library are:
 1. To provide a seamless integration between OpenTTS and TensorFlowTTS
