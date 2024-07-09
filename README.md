@@ -13,8 +13,6 @@ The main goals of this library are:
 
 This project is currently in early development stages and is not yet ready for production use. It is a Development-only GitHub Repository intended for experimentation and collaboration.
 
-We are actively working on implementing core functionalities and plan to add a UI in the near future. The API and features are subject to change as the project evolves.
-
 ## Features
 
 - Seamless integration of OpenTTS and TensorFlowTTS
