@@ -41,7 +41,7 @@ A collection of prompts designed to efficiently bring Claude back up to speed af
 ### 4. /steps/
 A continuously updated file containing Claude's recommendations for next steps in the project, providing a clear roadmap for development.
 
-### 5. /testing-blocks
+### 5. /testing-blocks/
 CLI outputs for each encountered bug. These are submitted to Claude via Markdown files rather than direct paste to prevent formatting issues caused by multiple carriage returns. This method helps maintain Claude Engineer's stability when processing large blocks of text.
 
 ## Installation & Requirements
