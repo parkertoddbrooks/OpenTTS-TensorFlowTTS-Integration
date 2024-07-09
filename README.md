@@ -25,7 +25,7 @@ This project is currently in early development stages and is not yet ready for p
 
 ## AI-Assisted Development Insights
 
-Our project leverages AI assistance throughout the development process. The `/ai_insight/` directory contains valuable information about this AI-assisted development approach:
+The project leverages AI assistance throughout the development process. And the `/ai_insight/` directory contains valuable information about this AI-assisted development approach:
 
 ### 1. /dev-summaries/
 Comprehensive project progress updates that allow any AI or developer to quickly understand the current state of the project. This serves as a continuity mechanism to preserve context beyond various model and system limitations, including token limits, context windows, session boundaries, rate limits, stateless API interactions, parsing complexities, and cross-model compatibility issues. 
