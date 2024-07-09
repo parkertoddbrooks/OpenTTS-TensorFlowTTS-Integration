@@ -7,11 +7,7 @@ The main goals of this library are:
 2. To offer developers an easy-to-use API for accessing both technologies
 3. To enable advanced, customizable speech synthesis capabilities in projects that use OpenTTS
 
-**Note: Developed with Claude.ai and Claude Engineer CLI assistance.**
-
-## Development Status
-
-This project is currently in early development stages and is not yet ready for production use. It is a Development-only GitHub Repository intended for experimentation and collaboration.
+**Developed with Claude.ai, Claude Engineer CLI, and OpenAI.**
 
 ## Features
 
@@ -22,6 +18,10 @@ This project is currently in early development stages and is not yet ready for p
 - Comprehensive test suite ensuring reliability and robustness
 - Performance optimization through caching and batch processing
 - Internationalization (i18n) support
+
+## Development Status
+
+This project is currently in early development stages and is not yet ready for production use. It is a Development-only GitHub Repository intended for experimentation and collaboration.
 
 ## AI-Assisted Development Insights
 
